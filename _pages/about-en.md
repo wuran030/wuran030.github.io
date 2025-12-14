@@ -19,7 +19,7 @@ redirect_from:
 
 Hello everyone,
 
-I am currently pursuing a PhD in Carbon Neutrality Science and Technology at the School of Energy and Environment, Southeast University. As the first author, I have published over ten papers in prestigious journals, including *Annals of Operations Research*, *IEEE Transactions on Engineering Management*, *Nonlinear Dynamics*, *Journal of Environmental Management*, *Chaos, Solitons & Fractals*, *Journal of Forecasting*, and *International Review of Economics & Finance*. Additionally, I have participated in multiple projects funded by the National Natural Science Foundation of China and major grants from the Jiangsu Provincial Social Science Foundation.
+I am currently pursuing a PhD in Southeast University. As the first author, I have published over ten papers in prestigious journals, including *Annals of Operations Research*, *IEEE Transactions on Engineering Management*, *Nonlinear Dynamics*, *Journal of Environmental Management*, *Chaos, Solitons & Fractals*, *Journal of Forecasting*, and *International Review of Economics & Finance*. Additionally, I have participated in multiple projects funded by the National Natural Science Foundation of China and major grants from the Jiangsu Provincial Social Science Foundation.
 
 My research interests include:
 - Platform Economy
@@ -43,7 +43,7 @@ My research interests include:
 
 - `Ran Wu`, Ramzi Benkraiem, Hongjun Zeng.  **A Hybrid Wavelet Deep Learning Framework for Forecasting Oil and Gas Common Volatility Under Macroeconomic Uncertainties**.  <span style="color: blue; font-style: italic;">*IEEE Transactions on Engineering Management*</span>, 2026 (SSCI/SCI Q1)
 
-- `Ran Wu`, Hongjun Zeng.  **A New Paradigm for Gold Price Forecasting: ASSA-Improved NSTformer in a WTC-LSTM Framework Integrating Multiple Uncertainty**.  <span style="color: blue; font-style: italic;">*Annals of Operations Research*</span>, 2025 (SSCI Q1)
+- `Ran Wu`, Hongjun Zeng.  **A New Paradigm for Gold Price Forecasting: ASSA-Improved NSTformer in a WTC-LSTM Framework Integrating Multiple Uncertainty**.  <span style="color: blue; font-style: italic;">*Annals of Operations Research*</span>, 2026 (SSCI Q1)
 
 - `Ran Wu`, Ming Li*.  **Impact of Blockchain Adoption on Carbon Reduction in Sustainable Supply Chains under the Carbon Trading Market: A Chaos and Bifurcation Perspective**.  <span style="color: blue; font-style: italic;">*Nonlinear Dynamics*</span>, 2025 (IF=4.8, SCI Q1)
 
@@ -71,6 +71,7 @@ My research interests include:
 <span class='anchor' id='honors'></span>
 
 # 🏅 Honors and Awards
+- *2022* Guangdong Provincial Society of Civil Engineering and Architecture Science and Technology Award  `The Second Prize`
 - *2022* ACM/ICPC Asia Regional Contest (Nanjing)  `Silver Medal`
 - *2020* China College Students Mathematical Modeling Contest `Second Prize`
 

@@ -42,7 +42,7 @@ redirect_from:
 
 - `Ran Wu`, Ramzi Benkraiem, Hongjun Zeng.  **A Hybrid Wavelet Deep Learning Framework for Forecasting Oil and Gas Common Volatility Under Macroeconomic Uncertainties**.  <span style="color: blue; font-style: italic;">*IEEE Transactions on Engineering Management*</span>, 2026 (SSCI/SCI Q1)
 
-- `Ran Wu`, Hongjun Zeng.  **A New Paradigm for Gold Price Forecasting: ASSA-Improved NSTformer in a WTC-LSTM Framework Integrating Multiple Uncertainty**.  <span style="color: blue; font-style: italic;">*Annals of Operations Research*</span>, 2025 (SSCI Q1)
+- `Ran Wu`, Hongjun Zeng.  **A New Paradigm for Gold Price Forecasting: ASSA-Improved NSTformer in a WTC-LSTM Framework Integrating Multiple Uncertainty**.  <span style="color: blue; font-style: italic;">*Annals of Operations Research*</span>, 2026 (SSCI Q1)
 
 - `Ran Wu`, Ming Li*.  **Impact of Blockchain Adoption on Carbon Reduction in Sustainable Supply Chains under the Carbon Trading Market: A Chaos and Bifurcation Perspective**.  <span style="color: blue; font-style: italic;">*Nonlinear Dynamics*</span>, 2025 (IF=4.8, SCI Q1)
 

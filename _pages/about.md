@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-大家好，我目前就读于东南大学能源与环境专业，攻读碳中和科学与技术博士学位。目前我以第一作者在Annals of Operations Research、IEEE Transactions on Engineering Management、Nonlinear Dynamics、Journal of Environmental Management、Chaos, Solitons & Fractals、Journal of Forecasting、International Review of Economics & Finance等期刊发表论文十余篇。并且参加多项国家自然科学基金、江苏省社科（重大）基金等项目。
+大家好，我目前在东南大学攻读博士学位。截止当下，我以第一作者在Annals of Operations Research、IEEE Transactions on Engineering Management、Nonlinear Dynamics、Journal of Environmental Management、Chaos, Solitons & Fractals、Journal of Forecasting、International Review of Economics & Finance等期刊发表论文十余篇。其余论文一共三十余篇，并且参加多项国家自然科学基金、江苏省社科（重大）基金等项目。
 
 我的研究领域包括：
 - 平台经济
@@ -80,8 +80,9 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
+- *2025* 获得 广东省土木建筑学会科学技术奖 `二等奖/排5`  
 - *2022* 获得 ACM/ICPC 亚洲区预赛（南京） `银牌`  
-- *2020* 获得 全国大学生数学建模竞赛 `二等奖`  
+- *2020* 获得 全国大学生数学建模竞赛 `二等奖`
 
 
 <span class='anchor' id='-xshy'></span>
@@ -92,7 +93,7 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
-- *2022.12 - 2025.2*, 江苏电信, 算法工程师，江苏南京
+- *2023.12 - 2025.2*, 江苏电信, 算法工程师，江苏南京
 - *2022.5 - 2022.9*, 美团优选, 大数据开发工程师，北京
 - *2021.9 - 2022.3*, TrandMicro, 自动化测试实习生，江苏南京
 - *2020.6 - 2020.9*, 华为南研所, 研发实习生，江苏南京

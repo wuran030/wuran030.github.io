@@ -42,11 +42,13 @@ redirect_from:
 
 - `Ran Wu`, Ramzi Benkraiem, Hongjun Zeng.  **A Hybrid Wavelet Deep Learning Framework for Forecasting Oil and Gas Common Volatility Under Macroeconomic Uncertainties**.  <span style="color: blue; font-style: italic;">*IEEE Transactions on Engineering Management*</span>, 2026 (SSCI/SCI Q1)
 
-- `Ran Wu`, Hongjun Zeng.  **A New Paradigm for Gold Price Forecasting: ASSA-Improved NSTformer in a WTC-LSTM Framework Integrating Multiple Uncertainty**.  <span style="color: blue; font-style: italic;">*Annals of Operations Research*</span>, 2026 (SSCI Q1)
+- `Ran Wu`, Hongjun Zeng.  **A New Paradigm for Gold Price Forecasting: ASSA-Improved NSTformer in a WTC-LSTM Framework Integrating Multiple Uncertainty**.  <span style="color: blue; font-style: italic;">*Annals of Operations Research*</span>, 2026 (SSCI Q1, ABS 3)
+
+- `Ran Wu`, Ming Li, Shenglin Ma, Hongjun Zeng.  **Asymmetric Market connectedness and Systemic Risk: Time-Frequency Evidence from Brazilian Energy Firms**.  <span style="color: blue; font-style: italic;">*Renewable Energy*</span>, 2026 (SCI Q1, , 中科院一区TOP)
 
 - `Ran Wu`, Ming Li*.  **Impact of Blockchain Adoption on Carbon Reduction in Sustainable Supply Chains under the Carbon Trading Market: A Chaos and Bifurcation Perspective**.  <span style="color: blue; font-style: italic;">*Nonlinear Dynamics*</span>, 2025 (IF=4.8, SCI Q1)
 
-- `Ran Wu`.  **Forecasting the European Union Allowance Price Tail Risk with the Integrated Deep Belief and Mixture Density Networks**.  <span style="color: blue; font-style: italic;">*Chaos, Solitons & Fractals*</span>, 2025 (IF=45.4, 中科院一区TOP, SCI Q1)
+- `Ran Wu`.  **Forecasting the European Union Allowance Price Tail Risk with the Integrated Deep Belief and Mixture Density Networks**.  <span style="color: blue; font-style: italic;">*Chaos, Solitons & Fractals*</span>, 2025 (IF=4.4, 中科院一区TOP, SCI Q1)
 
 - `Ran Wu`, MZ Abedin, Hongjun Zeng, Brian Lucey.  **European Union Allowance Price Forecasting with Multidimensional Uncertainties: A TCN‐iTransformer Approach for Interval Estimation**.  <span style="color: blue; font-style: italic;">*Journal of Forecasting*</span>, 2025 (SSCI Q1)
 

@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-大家好，我目前在东南大学攻读博士学位。截止当下，我以第一作者在Annals of Operations Research、IEEE Transactions on Engineering Management、Nonlinear Dynamics、Journal of Environmental Management、Chaos, Solitons & Fractals、Journal of Forecasting、International Review of Economics & Finance等期刊发表论文十余篇。其余论文一共三十余篇，并且参加多项国家自然科学基金、江苏省社科（重大）基金等项目。
+大家好，我目前在东南大学攻读博士学位。截止当下，我以第一作者在Annals of Operations Research、IEEE Transactions on Engineering Management、Nonlinear Dynamics、Journal of Environmental Management、Chaos, Solitons & Fractals、Journal of Forecasting、International Review of Economics & Finance等期刊发表论文二十余篇。其余论文一共三十余篇，并且参加多项国家自然科学基金、江苏省社科（重大）基金等项目。
 
 我的研究领域包括：
-- 平台经济
+- 供应链管理
 - 碳中和
 - 时间序列预测
 - 非线性系统
@@ -51,6 +51,7 @@ redirect_from:
 - `Ran Wu`, Ming Li*.  **Impact of Blockchain Adoption on Carbon Reduction in Sustainable Supply Chains under the Carbon Trading Market: A Chaos and Bifurcation Perspective**.  <span style="color: blue; font-style: italic;">*Nonlinear Dynamics*</span>, 2025 (IF=4.8, SCI Q1)
 
 - `Ran Wu`.  **Forecasting the European Union Allowance Price Tail Risk with the Integrated Deep Belief and Mixture Density Networks**.  <span style="color: blue; font-style: italic;">*Chaos, Solitons & Fractals*</span>, 2025 (IF=4.4, 中科院一区TOP, SCI Q1)
+- `Ran Wu`.  **Exploring the connectedness and risk spillover in the energy, agriculture, and metal commodity markets: evidence from multilayer time-varying frequency networks**.  <span style="color: blue; font-style: italic;">*Risk Management*</span>, 2025 (IF=1.7, SCI Q2)
 
 - `Ran Wu`, MZ Abedin, Hongjun Zeng, Brian Lucey.  **European Union Allowance Price Forecasting with Multidimensional Uncertainties: A TCN‐iTransformer Approach for Interval Estimation**.  <span style="color: blue; font-style: italic;">*Journal of Forecasting*</span>, 2025 (SSCI Q1)
 

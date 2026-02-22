@@ -47,18 +47,16 @@ My research interests include:
 - `Ran Wu`, Hongjun Zeng.  **A New Paradigm for Gold Price Forecasting: ASSA-Improved NSTformer in a WTC-LSTM Framework Integrating Multiple Uncertainty**.  <span style="color: blue; font-style: italic;">*Annals of Operations Research*</span>, 2026 (SSCI Q1)
 
 - `Ran Wu`, Ming Li, Shenglin Ma, Hongjun Zeng.  **Asymmetric Market connectedness and Systemic Risk: Time-Frequency Evidence from Brazilian Energy Firms**.  <span style="color: blue; font-style: italic;">*Renewable Energy*</span>, 2026 (SCI Q1)
+- `Ran Wu`.  **Exploring the connectedness and risk spillover in the energy, agriculture, and metal commodity markets: evidence from multilayer time-varying frequency networks**.  <span style="color: blue; font-style: italic;">*Risk Management*</span>, 2026 (IF=1.7, SCI Q2)
 
+- `Ran Wu`, MZ Abedin, Hongjun Zeng, Brian Lucey.  **European Union Allowance Price Forecasting with Multidimensional Uncertainties: A TCN‐iTransformer Approach for Interval Estimation**.  <span style="color: blue; font-style: italic;">*Journal of Forecasting*</span>, 2026 (SSCI Q1)
+
+- `Ran Wu`, AD Ahmed, MZ Abedin, Hongjun Zeng.  **HyperVIX: A GWO‐Optimized ARIMA‐LSTM Hybrid Model for CBOE Volatility Index (VIX) Forecasting**.  <span style="color: blue; font-style: italic;">*Journal of Forecasting*</span>, 2026 (SSCI Q1)
+
+- `Ran Wu`, Ming Li*, Feini Liu, Hongjun Zeng.  **Adjustment Strategies and Chaos in Duopoly Supply Chains: The Impacts of Carbon Trading Markets and Emission Reduction Policies**.  <span style="color: blue; font-style: italic;">*International Review of Economics and Finance*</span>, 2024 (IF=4.5, SSCI Q1, 中科院二区)
 - `Ran Wu`, Ming Li*.  **Impact of Blockchain Adoption on Carbon Reduction in Sustainable Supply Chains under the Carbon Trading Market: A Chaos and Bifurcation Perspective**.  <span style="color: blue; font-style: italic;">*Nonlinear Dynamics*</span>, 2025 (IF=4.8, SCI Q1)
 
 - `Ran Wu`.  **Forecasting the European Union Allowance Price Tail Risk with the Integrated Deep Belief and Mixture Density Networks**.  <span style="color: blue; font-style: italic;">*Chaos, Solitons & Fractals*</span>, 2025 (IF=45.4, TOP, SCI Q1)
-- `Ran Wu`.  **Exploring the connectedness and risk spillover in the energy, agriculture, and metal commodity markets: evidence from multilayer time-varying frequency networks**.  <span style="color: blue; font-style: italic;">*Risk Management*</span>, 2025 (IF=1.7, SCI Q2)
-
-- `Ran Wu`, MZ Abedin, Hongjun Zeng, Brian Lucey.  **European Union Allowance Price Forecasting with Multidimensional Uncertainties: A TCN‐iTransformer Approach for Interval Estimation**.  <span style="color: blue; font-style: italic;">*Journal of Forecasting*</span>, 2025 (SSCI Q1)
-
-- `Ran Wu`, AD Ahmed, MZ Abedin, Hongjun Zeng.  **HyperVIX: A GWO‐Optimized ARIMA‐LSTM Hybrid Model for CBOE Volatility Index (VIX) Forecasting**.  <span style="color: blue; font-style: italic;">*Journal of Forecasting*</span>, 2025 (SSCI Q1)
-
-- `Ran Wu`, Ming Li*, Feini Liu, Hongjun Zeng.  **Adjustment Strategies and Chaos in Duopoly Supply Chains: The Impacts of Carbon Trading Markets and Emission Reduction Policies**.  <span style="color: blue; font-style: italic;">*International Review of Economics and Finance*</span>, 2024 (IF=4.5, SSCI Q1, 中科院二区)
-
 - `Ran Wu`, Ming Li*.  **Optimization of Shipping Freight Forwarding Services Considering Consumer Rebates under the Impact of Carbon Tax Policy**.  <span style="color: blue; font-style: italic;">*Ocean and Coastal Management*</span>, 2024 (SCI/SSCI Q1, 中科院二区, IF=4.8)
 
 - `Ran Wu`, Hongjun Zeng, Jiale Yan, Cem Isik*.  **Introducing the Environmental Governance Policy Uncertainty (EGPU) for China**.  <span style="color: blue; font-style: italic;">*Journal of Environmental Management*</span>, 2025 (SCI Q1, IF=8.6)

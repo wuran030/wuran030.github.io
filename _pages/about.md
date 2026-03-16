@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-大家好，我目前在东南大学攻读博士学位。截止当下，我以第一作者在Annals of Operations Research、IEEE Transactions on Engineering Management、Nonlinear Dynamics、Journal of Environmental Management、Chaos, Solitons & Fractals、Journal of Forecasting、International Review of Economics & Finance等期刊发表论文二十余篇。其余论文一共三十余篇，并且参加多项国家自然科学基金、江苏省社科（重大）基金等项目。
+我以第一作者在Annals of Operations Research、IEEE Transactions on Engineering Management、Nonlinear Dynamics、Journal of Environmental Management、Chaos, Solitons & Fractals、Journal of Forecasting、International Review of Economics & Finance等期刊发表论文二十余篇。其余论文一共三十余篇，并且参加多项国家自然科学基金、江苏省社科（重大）基金等项目。
 
 我的研究领域包括：
 - 供应链管理
@@ -31,9 +31,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2025.09 -至今 *, <a href="https://www.seu.edu.cn/"><img src="/images/SEU.png" width="23" height="23" alt="东南大学" style="vertical-align: middle;"></a> 东南大学, 江苏南京, 博士研究生 
-
-- *2020.09 - 2023.06*, <a href="https://www.seu.edu.cn/"><img src="/images/SEU.png" width="23" height="23" alt="东南大学" style="vertical-align: middle;"></a> 东南大学, 江苏南京, 硕士研究生 
+<a href="https://www.seu.edu.cn/"><img src="/images/SEU.png" width="23" height="23" alt="东南大学" style="vertical-align: middle;"></a> 东南大学, 江苏南京, 博士研究生 
+<a href="https://www.seu.edu.cn/"><img src="/images/SEU.png" width="23" height="23" alt="东南大学" style="vertical-align: middle;"></a> 东南大学, 江苏南京, 硕士研究生 
 
  
 <span class='anchor' id='-lwzl'></span>

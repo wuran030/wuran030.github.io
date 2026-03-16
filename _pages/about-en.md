@@ -19,21 +19,21 @@ redirect_from:
 
 Hello everyone,
 
-I am currently pursuing a PhD in Southeast University. As the first author, I have published over ten papers in prestigious journals, including *Annals of Operations Research*, *IEEE Transactions on Engineering Management*, *Nonlinear Dynamics*, *Journal of Environmental Management*, *Chaos, Solitons & Fractals*, *Journal of Forecasting*, and *International Review of Economics & Finance*. Additionally, I have participated in multiple projects funded by the National Natural Science Foundation of China and major grants from the Jiangsu Provincial Social Science Foundation.
+I am currently a PhD. Candidate in Southeast University. As the first author, I have published over ten papers in prestigious journals, including *Annals of Operations Research*, *IEEE Transactions on Engineering Management*, *Renewable Energy*, *Nonlinear Dynamics*, *Journal of Environmental Management*, *Chaos, Solitons & Fractals*, *Journal of Forecasting*, and *International Review of Economics & Finance*. Additionally, I have participated in multiple projects funded by the National Natural Science Foundation of China and major grants from the Jiangsu Provincial Social Science Foundation.
 
 My research interests include:
-- Platform Economy
 - Carbon Neutrality
 - Time Series Forecasting
 - Nonlinear Systems
 - Complex Networks
+- Platform Economy
   
 
 <span class='anchor' id='education'></span>
 
 # 🎓 Education
-- *2025.09 - *, <a href="https://www.seu.edu.cn/"><img src="/images/SEU.png" width="23" height="23" alt="东南大学" style="vertical-align: middle;"></a> Southeast University, Nanjing, PhD. Candidate 
-- *2020.09 - 2023.06*, <a href="https://www.seu.edu.cn/"><img src="/images/SEU.png" width="23" height="23" alt="SEU" style="vertical-align: middle;"></a> Southeast University, Nanjing, Jiangsu, Master's Degree
+<a href="https://www.seu.edu.cn/"><img src="/images/SEU.png" width="23" height="23" alt="东南大学" style="vertical-align: middle;"></a> Southeast University, Nanjing, PhD. Candidate 
+<a href="https://www.seu.edu.cn/"><img src="/images/SEU.png" width="23" height="23" alt="SEU" style="vertical-align: middle;"></a> Southeast University, Nanjing, Jiangsu, Master's Degree
 
  
 <span class='anchor' id='publications'></span>

@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我以第一作者在Annals of Operations Research、IEEE Transactions on Engineering Management、Nonlinear Dynamics、Journal of Environmental Management、Chaos, Solitons & Fractals、Journal of Forecasting、International Review of Economics & Finance等期刊发表论文二十余篇。并且参加多项国家自然科学基金、江苏省社科（重大）基金等项目。
+我以第一作者在Annals of Operations Research、IEEE Transactions on Engineering Management、Nonlinear Dynamics、Journal of Environmental Management、Chaos, Solitons & Fractals、Journal of Forecasting、International Review of Economics & Finance等期刊发表论文。并且参加多项国家自然科学基金、江苏省社科（重大）基金等项目。
 
 我的研究领域包括：
 - 供应链管理

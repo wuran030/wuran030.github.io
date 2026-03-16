@@ -32,8 +32,19 @@ My research interests include:
 <span class='anchor' id='education'></span>
 
 # 🎓 Education
-<a href="https://www.seu.edu.cn/"><img src="/images/SEU.png" width="23" height="23" alt="东南大学" style="vertical-align: middle;"></a> Southeast University, Nanjing, PhD. Candidate 
-<a href="https://www.seu.edu.cn/"><img src="/images/SEU.png" width="23" height="23" alt="SEU" style="vertical-align: middle;"></a> Southeast University, Nanjing, Jiangsu, Master's Degree
+<div>
+  <a href="https://www.seu.edu.cn/">
+    <img src="/images/SEU.png" width="23" height="23" alt="Southeast University" style="vertical-align: middle; margin-right:6px;">
+  </a>
+  Southeast University, Nanjing, China — Ph.D. Candidate
+</div>
+
+<div>
+  <a href="https://www.seu.edu.cn/">
+    <img src="/images/SEU.png" width="23" height="23" alt="Southeast University" style="vertical-align: middle; margin-right:6px;">
+  </a>
+  Southeast University, Nanjing, China — M.Sc. in Logistics Engineering and Management
+</div>
 
  
 <span class='anchor' id='publications'></span>

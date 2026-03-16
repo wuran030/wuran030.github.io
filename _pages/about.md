@@ -31,8 +31,21 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-<a href="https://www.seu.edu.cn/"><img src="/images/SEU.png" width="20" height="20" alt="东南大学" style="vertical-align: middle; margin-right: 6px;"></a> 东南大学　江苏南京　博士研究生
-<a href="https://www.seu.edu.cn/"><img src="/images/SEU.png" width="20" height="20" alt="东南大学" style="vertical-align: middle; margin-right: 6px;"></a> 东南大学　江苏南京　硕士研究生
+<div style="margin-bottom:6px;">
+  <a href="https://www.seu.edu.cn/">
+    <img src="/images/SEU.png" width="20" height="20" alt="SEU"
+    style="vertical-align:middle;margin-right:6px;">
+  </a>
+  <span>东南大学 · 江苏南京 · 博士研究生</span>
+</div>
+
+<div>
+  <a href="https://www.seu.edu.cn/">
+    <img src="/images/SEU.png" width="20" height="20" alt="SEU"
+    style="vertical-align:middle;margin-right:6px;">
+  </a>
+  <span>东南大学 · 江苏南京 · 硕士研究生</span>
+</div>
 
  
 <span class='anchor' id='-lwzl'></span>

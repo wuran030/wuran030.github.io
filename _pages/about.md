@@ -59,11 +59,16 @@ redirect_from:
 - `Ran Wu`, Hongjun Zeng.  **A New Paradigm for Gold Price Forecasting: ASSA-Improved NSTformer in a WTC-LSTM Framework Integrating Multiple Uncertainty**.  <span style="color: blue; font-style: italic;">*Annals of Operations Research*</span>, 2026 (SSCI Q1, ABS 3)
 
 - `Ran Wu`, Ming Li, Shenglin Ma, Hongjun Zeng.  **Asymmetric Market connectedness and Systemic Risk: Time-Frequency Evidence from Brazilian Energy Firms**.  <span style="color: blue; font-style: italic;">*Renewable Energy*</span>, 2026 (SCI Q1, , 中科院一区TOP)
+
+- `Ran Wu`, Jiale Yan, Cem Isik*.  **Tail Risk Connectedness in the Global Tourism Markets: The Asymmetry Impact of ESG Index**. <span style="color: blue; font-style: italic;">*Tourism Economics*</span>, 2026 (SSCI Q1)
+
 - `Ran Wu`.  **Exploring the connectedness and risk spillover in the energy, agriculture, and metal commodity markets: evidence from multilayer time-varying frequency networks**.  <span style="color: blue; font-style: italic;">*Risk Management*</span>, 2026 (IF=1.7, SCI Q2)
 
 - `Ran Wu`, MZ Abedin, Hongjun Zeng, Brian Lucey.  **European Union Allowance Price Forecasting with Multidimensional Uncertainties: A TCN‐iTransformer Approach for Interval Estimation**.  <span style="color: blue; font-style: italic;">*Journal of Forecasting*</span>, 2026 (SSCI Q1)
 
 - `Ran Wu`, AD Ahmed, MZ Abedin, Hongjun Zeng.  **HyperVIX: A GWO‐Optimized ARIMA‐LSTM Hybrid Model for CBOE Volatility Index (VIX) Forecasting**.  <span style="color: blue; font-style: italic;">*Journal of Forecasting*</span>, 2026 (SSCI Q1)
+
+- Hongjun Zeng, Mohammad Zoynul Abedin, Ramzi Benkraiem, `Ran Wu`.  **Forecasting FinTech stock index under multiple market uncertainties**.  <span style="color: blue; font-style: italic;">*Annals of Operations Research*</span>, 2026 (SSCI Q1)
 
 - `Ran Wu`, Ming Li*, Feini Liu, Hongjun Zeng.  **Adjustment Strategies and Chaos in Duopoly Supply Chains: The Impacts of Carbon Trading Markets and Emission Reduction Policies**.  <span style="color: blue; font-style: italic;">*International Review of Economics and Finance*</span>, 2024 (IF=4.5, SSCI Q1, 中科院二区)
 - `Ran Wu`, Ming Li*.  **Impact of Blockchain Adoption on Carbon Reduction in Sustainable Supply Chains under the Carbon Trading Market: A Chaos and Bifurcation Perspective**.  <span style="color: blue; font-style: italic;">*Nonlinear Dynamics*</span>, 2025 (IF=4.8, SCI Q1)

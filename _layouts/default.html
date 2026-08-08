@@ -3,7 +3,7 @@ layout: compress
 ---
 
 <!doctype html>
-<html lang="en" class="no-js">
+<html lang="{% if page.url == '/en/' or page.url == '/en/index.html' %}en{% else %}zh-CN{% endif %}" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
@@ -56,7 +56,7 @@ layout: compress
   {% endif %}
 </div>
 <div class="footer_copyright">
-  © 2025 东南大学 · 巫然 | 基于&nbsp
+  © {{ site.time | date: '%Y' }} 东南大学 · 巫然 | 基于&nbsp;
   <a class="page_a"  href="https://github.com/RayeRen/acad-homepage.github.io">
   acad
   </a>&nbsp模板

@@ -17,29 +17,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello everyone,
+<div class="intro-card" markdown="1">
 
-I am currently a PhD. Candidate in Southeast University. As the first author, I have published over ten papers in prestigious journals, including *Annals of Operations Research*, *IEEE Transactions on Engineering Management*, *Renewable Energy*, *Nonlinear Dynamics*, *Journal of Environmental Management*, *Chaos, Solitons & Fractals*, *Journal of Forecasting*, and *International Review of Economics & Finance*. Additionally, I have participated in multiple projects funded by the National Natural Science Foundation of China and major grants from the Jiangsu Provincial Social Science Foundation.
+I am currently a Ph.D. candidate at Southeast University. As first author, I have published research in journals including *Annals of Operations Research*, *IEEE Transactions on Engineering Management*, *Renewable Energy*, *Nonlinear Dynamics*, *Journal of Environmental Management*, *Chaos, Solitons & Fractals*, *Journal of Forecasting*, and *International Review of Economics & Finance*. I have also participated in projects funded by the National Natural Science Foundation of China and major grants from the Jiangsu Provincial Social Science Foundation.
 
 My research interests include:
+- Supply Chain Management
 - Carbon Neutrality
 - Time Series Forecasting
 - Nonlinear Systems
 - Complex Networks
-- Platform Economy
-  
+
+</div>
 
 <span class='anchor' id='education'></span>
 
 # 🎓 Education
-<div>
+<div class="education-card">
   <a href="https://www.seu.edu.cn/">
     <img src="/images/SEU.png" width="23" height="23" alt="Southeast University" style="vertical-align: middle; margin-right:6px;">
   </a>
   Southeast University, Nanjing, China — Ph.D. Candidate
 </div>
 
-<div>
+<div class="education-card">
   <a href="https://www.seu.edu.cn/">
     <img src="/images/SEU.png" width="23" height="23" alt="Southeast University" style="vertical-align: middle; margin-right:6px;">
   </a>
@@ -53,9 +54,11 @@ My research interests include:
 
 ---
 
+<div class="publication-list" markdown="1">
+
 - `Ran Wu`, Ramzi Benkraiem, Hongjun Zeng.  **A Hybrid Wavelet Deep Learning Framework for Forecasting Oil and Gas Common Volatility Under Macroeconomic Uncertainties**.  <span style="color: blue; font-style: italic;">*IEEE Transactions on Engineering Management*</span>, 2026 (SSCI/SCI Q1)
 
-- `Ran Wu`, Hongjun Zeng.  **A New Paradigm for Gold Price Forecasting: ASSA-Improved NSTformer in a WTC-LSTM Framework Integrating Multiple Uncertainty**.  <span style="color: blue; font-style: italic;">*Annals of Operations Research*</span>, 2026 (SSCI Q1)
+- `Ran Wu`, Hongjun Zeng.  **A New Paradigm for Gold Price Forecasting: ASSA-Improved NSTformer in a WTC-LSTM Framework Integrating Multiple Uncertainty**.  <span style="color: blue; font-style: italic;">*Annals of Operations Research*</span>, 2026 (SSCI Q1, ABS 3)
 
 - `Ran Wu`, Ming Li, Shenglin Ma, Hongjun Zeng.  **Asymmetric Market connectedness and Systemic Risk: Time-Frequency Evidence from Brazilian Energy Firms**.  <span style="color: blue; font-style: italic;">*Renewable Energy*</span>, 2026 (SCI Q1)
 
@@ -72,7 +75,7 @@ My research interests include:
 - `Ran Wu`, Ming Li*, Feini Liu, Hongjun Zeng.  **Adjustment Strategies and Chaos in Duopoly Supply Chains: The Impacts of Carbon Trading Markets and Emission Reduction Policies**.  <span style="color: blue; font-style: italic;">*International Review of Economics and Finance*</span>, 2024 (IF=4.5, SSCI Q1, 中科院二区)
 - `Ran Wu`, Ming Li*.  **Impact of Blockchain Adoption on Carbon Reduction in Sustainable Supply Chains under the Carbon Trading Market: A Chaos and Bifurcation Perspective**.  <span style="color: blue; font-style: italic;">*Nonlinear Dynamics*</span>, 2025 (IF=4.8, SCI Q1)
 
-- `Ran Wu`.  **Forecasting the European Union Allowance Price Tail Risk with the Integrated Deep Belief and Mixture Density Networks**.  <span style="color: blue; font-style: italic;">*Chaos, Solitons & Fractals*</span>, 2025 (IF=45.4, TOP, SCI Q1)
+- `Ran Wu`.  **Forecasting the European Union Allowance Price Tail Risk with the Integrated Deep Belief and Mixture Density Networks**.  <span style="color: blue; font-style: italic;">*Chaos, Solitons & Fractals*</span>, 2025 (IF=4.4, TOP, SCI Q1)
 - `Ran Wu`, Ming Li*.  **Optimization of Shipping Freight Forwarding Services Considering Consumer Rebates under the Impact of Carbon Tax Policy**.  <span style="color: blue; font-style: italic;">*Ocean and Coastal Management*</span>, 2024 (SCI/SSCI Q1, 中科院二区, IF=4.8)
 
 - `Ran Wu`, Hongjun Zeng, Jiale Yan, Cem Isik*.  **Introducing the Environmental Governance Policy Uncertainty (EGPU) for China**.  <span style="color: blue; font-style: italic;">*Journal of Environmental Management*</span>, 2025 (SCI Q1, IF=8.6)
@@ -85,11 +88,12 @@ My research interests include:
 
 - Ming Li, Cem, Jiale Yan, `Ran Wu` (Corresponding Author).  **The Nexus between Clean Energy Market Risk and US Business Environment: Evidence from Wavelet Coherence and Variance Analysis**. <span style="color: blue; font-style: italic;">*Stochastic Environmental Research and Risk Assessment*</span>, 2024 (SCI Q1, IF=3.9)
 
+</div>
 
 <span class='anchor' id='honors'></span>
 
 # 🏅 Honors and Awards
-- *2022* Guangdong Provincial Society of Civil Engineering and Architecture Science and Technology Award  `The Second Prize`
+- *2025* Guangdong Provincial Society of Civil Engineering and Architecture Science and Technology Award  `Second Prize (ranked fifth)`
 - *2022* ACM/ICPC Asia Regional Contest (Nanjing)  `Silver Medal`
 - *2020* China College Students Mathematical Modeling Contest `Second Prize`
 
@@ -101,8 +105,7 @@ My research interests include:
 <span class='anchor' id='internships'></span>
 
 # 💻 Work Experience & Internships
-- *2022.12 - 2025.2*, Jiangsu Telecom, Algorithm Engineer, Nanjing, Jiangsu
+- *2023.12 - 2025.2*, Jiangsu Telecom, Algorithm Engineer, Nanjing, Jiangsu
 - *2022.5 - 2022.9*, Meituan, Big Data Development Engineer, Beijing
-- *2021.9 - 2022.3*, TrendMicro, Automation Test Intern, Nanjing, Jiangsu
+- *2021.9 - 2022.3*, Trend Micro, Automation Test Intern, Nanjing, Jiangsu
 - *2020.6 - 2020.9*, Huawei Nanjing Research Institute, R&D Intern, Nanjing, Jiangsu
-

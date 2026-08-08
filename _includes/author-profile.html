@@ -13,6 +13,17 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
+  {% if author.googlescholar %}
+    <a class="scholar-citation-card" href="{{ author.googlescholar }}" aria-label="Google Scholar citation profile">
+      <span class="scholar-citation-card__icon" aria-hidden="true"><i class="fas fa-graduation-cap"></i></span>
+      <span class="scholar-citation-card__content">
+        <span class="scholar-citation-card__label">Google Scholar</span>
+        <strong><span id="total_cit" aria-live="polite">—</span> {% if page.url == "/en/" or page.url == "/en/index.html" %}citations{% else %}次引用{% endif %}</strong>
+        <small id="scholar_update_status">{% if page.url == "/en/" or page.url == "/en/index.html" %}Automatically synced{% else %}自动同步更新{% endif %}</small>
+      </span>
+    </a>
+  {% endif %}
+
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
